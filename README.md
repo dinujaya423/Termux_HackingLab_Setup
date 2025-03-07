@@ -1,4 +1,4 @@
-<h1 align="center">Termux Hacking Lab Setup</h1>
+<h1 align="center">Termux Tools Setup</h1>
 <p align="center">
   श्री गणेशाय नमः
 </p>
